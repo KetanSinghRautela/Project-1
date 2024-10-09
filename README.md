@@ -84,6 +84,11 @@ In general, the manual binding method forms the basis of all research methods. B
 
 <img width="876" alt="Screenshot 2024-10-09 at 6 40 27 PM" src="https://github.com/user-attachments/assets/d74853d2-de56-4ffc-b2d4-289b63db35f6">
 
+<img width="818" alt="Screenshot 2024-10-09 at 7 39 25 PM" src="https://github.com/user-attachments/assets/d89d12f8-69dd-4b3d-a33b-47b2e65854cd">
+
+<img width="808" alt="Screenshot 2024-10-09 at 7 40 03 PM" src="https://github.com/user-attachments/assets/63b07154-dcb5-4a45-b27b-db91573fcd7c">
+
+
 
 ## Conclusion and Future Work 
 We created this project by analyzing sentiment using the Vader model of the Amazon food review dataset, which shows all the stats of reviews such as positive, negative, and neutral. This will be done by the Sentiment Analyzer model and the Vader model. Both of these models  are useful for analyzing emotions. This project will help in many areas such as spam detection, target classification, search terms shows a way to create a general structure that combines the decision structure and the hierarchical bracket structure into a single structure. Therefore, the biases of the judgment model and the disadvantages of the hierarchical 
